@@ -82,9 +82,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2fab37c79417ef97c885c83560d2ace9532e33af",
     "commitName": "feat: Recibe un numero que cumple con la segunda regla fizzbuzz",
     "commitTimestamp": 1787838609235,
     "testId": 3
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787838670458,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Recibe otro numero que cumple con la segunda regla fizzbuzz",
+    "commitTimestamp": 1787838694132,
+    "testId": 4
   }
 ]
