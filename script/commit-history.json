@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3526e9ec86925f746bf24062620824ea61daa44d",
     "author": "Mateo Quintanilla",
     "commit": {
       "date": "2026-08-27T13:51:32.000Z",
       "message": "feat: Recibe otro numero que cumple con la segunda regla fizzbuzz",
-      "url": "https://github.com/MateinSpy7/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/MateinSpy7/FizzBuzz/commit/3526e9ec86925f746bf24062620824ea61daa44d"
     },
     "stats": {
       "total": 8,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo Quintanilla",
+    "commit": {
+      "date": "2026-08-27T13:53:21.000Z",
+      "message": "feat: Recibe un numero que cumple con la tercera ley fizzbuzz",
+      "url": "https://github.com/MateinSpy7/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
