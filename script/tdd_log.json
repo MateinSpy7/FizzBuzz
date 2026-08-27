@@ -110,9 +110,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5bca1d3cff9c14b4b947c0e5d3459ab2d9dfd02f",
     "commitName": "feat: Recibe un numero que cumple con la tercera ley fizzbuzz",
     "commitTimestamp": 1787838802830,
     "testId": 5
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787838859468,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Recibe OTRO  numero que cumple con la tercera ley fizzbuzz",
+    "commitTimestamp": 1787838875346,
+    "testId": 6
   }
 ]
