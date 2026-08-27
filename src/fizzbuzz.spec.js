@@ -23,3 +23,9 @@ describe("FizzBuzz", () => {
     expect(FizzBuzz(6)).toEqual("Fizz");
   });
 });
+
+describe("FizzBuzz", () => {
+  it("deberia devolver un numero o palabra segun las reglas FizzBuzz", () => {
+    expect(FizzBuzz(5)).toEqual("Buzz");
+  });
+});
