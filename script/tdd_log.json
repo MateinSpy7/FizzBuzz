@@ -124,9 +124,39 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "df30ede1a90702228a438a805d23fef38ab8ef7f",
     "commitName": "feat: Recibe OTRO  numero que cumple con la tercera ley fizzbuzz",
     "commitTimestamp": 1787838875346,
     "testId": 6
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787839806096,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787840343880,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787840404109,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar presenter y html par mostrar funcionalidades fizzbuzz",
+    "commitTimestamp": 1787840469088,
+    "testId": 7
   }
 ]

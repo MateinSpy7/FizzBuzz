@@ -1,15 +1,11 @@
-import sumar from "./sumador";
+import FizzBuzz from './fizzbuzz.js';
 
-const first = document.querySelector("#primer-numero");
-const second = document.querySelector("#segundo-numero");
-const form = document.querySelector("#sumar-form");
-const div = document.querySelector("#resultado-div");
+const form = document.querySelector('#fizzbuzz-form');
+const numberInput = document.querySelector('#fizzbuzz-number');
+const result = document.querySelector('#fizzbuzz-result');
 
-form.addEventListener("submit", (event) => {
+form.addEventListener('submit', (event) => {
   event.preventDefault();
-
-  const firstNumber = Number.parseInt(first.value);
-  const secondNumber = Number.parseInt(second.value);
-
-  div.innerHTML = "<p>" + sumar(firstNumber, secondNumber) + "</p>";
+  const number = Number.parseInt(numberInput.value, 10);
+  result.innerHTML = `<p>${FizzBuzz(number)}</p>`;
 });

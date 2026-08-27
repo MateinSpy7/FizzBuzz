@@ -114,17 +114,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "df30ede1a90702228a438a805d23fef38ab8ef7f",
     "author": "Mateo Quintanilla",
     "commit": {
       "date": "2026-08-27T13:54:33.000Z",
       "message": "feat: Recibe OTRO  numero que cumple con la tercera ley fizzbuzz",
-      "url": "https://github.com/MateinSpy7/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/MateinSpy7/FizzBuzz/commit/df30ede1a90702228a438a805d23fef38ab8ef7f"
     },
     "stats": {
       "total": 10,
       "additions": 9,
       "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo Quintanilla",
+    "commit": {
+      "date": "2026-08-27T14:21:07.000Z",
+      "message": "feat: agregar presenter y html par mostrar funcionalidades fizzbuzz",
+      "url": "https://github.com/MateinSpy7/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 19,
+      "deletions": 21,
       "date": "2026-08-27"
     },
     "coverage": 100,
