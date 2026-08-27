@@ -40,9 +40,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7f747426de22e47ddba0d432b9f6b5d1ca5676c3",
     "commitName": "feat: genera fizzbuzz para dos numeros que no siguen una regla",
     "commitTimestamp": 1787838140832,
     "testId": 0
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838251147,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: genera fizzbuzz para primer numero que cumple una regla",
+    "commitTimestamp": 1787838307048,
+    "testId": 1
   }
 ]
